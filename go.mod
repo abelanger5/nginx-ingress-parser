@@ -9,5 +9,6 @@ require (
 	github.com/godbus/dbus/v5 v5.0.4 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20210722203344-69c5ea87048d // indirect
 	github.com/honeycombio/gonx v1.3.1-0.20171118020637-f9b2468e9ef8
+	github.com/spf13/cobra v1.2.1
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 )
